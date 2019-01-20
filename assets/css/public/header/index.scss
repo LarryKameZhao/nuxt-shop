@@ -3,15 +3,18 @@
 .m-header{
   @at-root .layout-default{
     .el-header{
+      width: 100%;
+      background: #fff;
       .m-header {
         width: 100%;
+        background: #f8f8f8;
       }
     }
   }
   >.el-row:nth-child(1){
-    // width: 1190px;
+    width: 1190px;
     margin: 0 auto;
-    z-index: 9999;
+    // z-index: 9999;
     height: 40px;
     line-height: 40px;
   }

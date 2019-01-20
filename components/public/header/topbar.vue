@@ -1,12 +1,12 @@
 <template>
     <el-row :gutter="0" class="m-header">
-      <el-col :span="4" :offset="3">
+      <el-col :span="5" >
         <Geo/>
       </el-col>
-      <el-col :span="4">
+      <el-col :span="5">
         <User/>
       </el-col>
-      <el-col :span="10" :offset="-5">
+      <el-col :span="14" >
         <NavBar/>
       </el-col>
     </el-row>

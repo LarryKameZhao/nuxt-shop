@@ -37,9 +37,9 @@
             border: none;
             background: #13D1BE;
             font-size: 16px;
+            border-top: 1px solid #13D1BE;
             border-top-left-radius: 0;
             border-bottom-left-radius: 0;
-            border-top: 1px solid #13D1BE;
             vertical-align: -1px;
             i {
               font-weight: bold;
@@ -48,7 +48,7 @@
           .hotPlace,
           .searchList {
             position: absolute;
-            top: 43px;
+            top: 42px;
             left: 0;
             background: #fff;
             padding: 10px;

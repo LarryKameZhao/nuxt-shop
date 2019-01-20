@@ -16,7 +16,8 @@ import SearchBar from './SearchBar'
 export default {
   components: {
     TopBar,
-    SearchBar
+    SearchBar,
+  
   }
 }
 </script>
