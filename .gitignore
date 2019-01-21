@@ -6,7 +6,7 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-server/dbs/config.js
+server/dbs/models/config.js
 # Runtime data
 pids
 *.pid
