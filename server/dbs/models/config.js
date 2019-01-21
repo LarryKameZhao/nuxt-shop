@@ -1,25 +1,25 @@
 export default {
-  dbs: 'mongodb://mapp:Lk1994??@47.104.222.153:27017/mapp',
+  dbs: 'mongodb://',
   redis: {
     get host () {
-      return '47.104.222.153'
+      return ''
     },
     get port () {
-      return 6379
+      return 
     },
     getPassword() {
-      return 'lk1994??'
+      return ''
     }
   },
   smtp: {
     get host () {
-      return 'smtp.qq.com'
+      return ''
     },
     get user () {
-      return '1658977155@qq.com'
+      return ''
     },
     get pass () {
-      return 'lk1994228??'
+      return ''
     }
   }
 }
